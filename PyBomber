@@ -2,7 +2,7 @@
 
 
 
-j
+
 import smtplib as s
 import getpass
 
